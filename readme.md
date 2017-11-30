@@ -1,6 +1,6 @@
 ## YTRCP ISSUES
 
-<a href="https://ytrcp.co">Visit The Website</a>
+Visit <a href="https://ytrcp.co" rel="dofollow">YouTube Random Comment Picker</a> here
 
 > YTRCP is a Complete YouTube Toolkit with Tools like Random Comment Picker, Realtime Checker, Thumbnail Downloader with Absolutely Gorgeous Design.
 
